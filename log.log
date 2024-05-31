@@ -1,0 +1,6 @@
+Erro fatal: name 'arquivo_dsasaida' is not defined  => 30/05/2024 21:51:22
+==========================
+Erro ao carregar dados: [Errno 2] No such file or directory: 'planilha/transdasacoes.csv'  => 30/05/2024 21:51:30
+==========================
+Erro fatal: [Errno 2] No such file or directory: 'planilha/transdasacoes.csv'  => 30/05/2024 21:51:30
+==========================
